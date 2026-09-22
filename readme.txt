@@ -1,4 +1,2 @@
-hello git
-git is really good
-git is fantastic
-git did it
+Git is a distributed version control system.
+Git is free software.
